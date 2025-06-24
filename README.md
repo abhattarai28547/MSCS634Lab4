@@ -76,3 +76,10 @@ Models were evaluated using:
 
 This lab reinforced how model complexity and regularization affect regression performance. **Lasso Regression** stood out as the most practical model for this dataset — offering both accuracy and simplicity.
 
+---
+
+##  Files Included
+
+- `Lab4.ipynb`: Jupyter Notebook containing code and output.
+- `MSCS634Lab4.pdf` : PDF document containing code and output.
+- `README.md`: This file.

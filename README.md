@@ -1,8 +1,8 @@
-# MSCS634Lab4
+# MSCS634Lab4 - Regression Analysis with Regularization Techniques
 
-**Name:** Avinna Bhattarai 
-**Course:** MSCS 634 - Big Data and Data Mining
-**Lab 4:** Multiple Regression and Regularization using the Diabetes Dataset
+**Name:** Avinna Bhattarai  
+**Course:** MSCS 634 - Big Data and Data Mining  
+**Lab Assignment:** Lab 4 - Multiple Regression and Regularization using the Diabetes Dataset
 
 ---
 
